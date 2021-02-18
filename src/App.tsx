@@ -1,11 +1,5 @@
-function App() {
-  return (
-    <div>
-      <header>
-        <h1>DDUI</h1>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+  return <div>DDUI</div>;
+};
 
 export default App;
